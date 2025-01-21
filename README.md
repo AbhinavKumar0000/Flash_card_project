@@ -1,4 +1,4 @@
-# Flash_card_project
+# Flash-card-project
 Flashy - A Language Learning Flashcard App
 Flashy is an interactive flashcard application built with Python and Tkinter to help users learn French vocabulary. The app displays French words, which flip after a few seconds to reveal their English translations. Users can mark words they’ve learned, and the app saves progress for future sessions.
 
